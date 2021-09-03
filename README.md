@@ -7,7 +7,7 @@
   <img width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelvalmir&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<h2> Content </h2>
+<h2> 📘 Content </h2>
 <ul> <li><a href="#about_me"> About me </a> </li>
   <li><a href="#currently_learning"> I'm currently learning </a> </li>
   <li><a href="#goals_for_2021"> Goals for 2021 </a> </li>
@@ -22,10 +22,8 @@
 ##
 <h3 id="about_me"> 🤗 About me: </h3>
 <ul>
-  <li> I'm Currently looking for new opportunities. </li>
-  <li> Currently I'm studing at Programador BR course. </li>
-  <li> I'm on track for learning more about Web programming, designer, frontend, Encryption, Cybersecurity and Artificial Intelligence. </li>
-  <li> In my free time, I play guitar, watch movies, series and animes, go skateboard, do exercises, dance break and learn some new as well. </li>
+  <li> I'm currently looking for new opportunities. </li>
+  <li> I'm currently studing at Programador BR course. </li>
 </ul>
   
 <h4 id="currently_learning">✔️ I'm currently learning </h4>
@@ -51,11 +49,12 @@
 
 <h4 id="interested_in"> 🛠 Interested in: </h4>
 <ul>
-  <li> Web, designer, frontend, cybersecurity</li>
+  <li> I'm on track for learning more about Web programming, designer, frontend, Encryption, Cybersecurity and Artificial Intelligence. </li>
 </ul>
   
 <h4 id="fun_facts"> 🌴 Fun facts: </h4>
 <ul>
+  <li> In 2020 I completed mandatory military service with excellence earning the certificate of honor. </li>
   <li> I'm improving my english every day by watching at least 3 episodes a day from some serie. </li>
   <li> I'm improving my japanese every day by watching at least 2 episodes a day from some anime. </li>
   <li> I love cartoon and disney movies. </li>
