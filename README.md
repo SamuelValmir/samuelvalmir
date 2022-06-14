@@ -68,19 +68,22 @@
 ##
 <h3 id="languages_and_tools"> Languages and Tools: </h3>
 <div>
-  <img width="60em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-  <img width="60em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
-  <img width="60em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-  <img width="60em" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img width="60em" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
-  <img width="60em" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png">  
+  <img width="60em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript">
+  <img width="60em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML">
+  <img width="60em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS">
+  <img width="60em" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node JS">
+  <img width="60em" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery">
+  <img width="60em" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"  title="Bootstrap">  
 </div>
   
 ##
 <h3 id="softwares"> Softwares: </h3>
 <div>
-  <img width="60em" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
-  <img width="60em" src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png">  
+  <img width="60em" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" title="VS Code">
+  <img width="60em" src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png" title="Github Desktop">  
+  <img width="60em" src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png" title="Mongo DB Compass">  
+  <img width="60em" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" title="Insomnia">  
+  
 </div>
   
 ##
