@@ -10,7 +10,7 @@
 <h2> 📘 Content </h2>
 <ul> <li><a href="#about_me"> About me </a> </li>
   <li><a href="#currently_learning"> I'm currently learning </a> </li>
-  <li><a href="#goals_for_2021"> Goals for 2021 </a> </li>
+  <li><a href="#goals_for_2022"> Goals for 2022 </a> </li>
   <li><a href="#challenging_myself_with"> Things I'm challenging myself with </a> </li>
   <li><a href="#interested_in"> Interested in </a> </li>
   <li><a href="#fun_facts"> Fun facts </a> </li>
@@ -28,21 +28,24 @@
   
 <h4 id="currently_learning">✔️ I'm currently learning </h4>
 <ul>
-  <li> Javascript</li>
-  <li> HTML </li>
-  <li> CSS </li>
+  <li> C language</li>
+  <li> Arch Linux </li>
+  <li> Mongo DB </li>
+  <li> Express </li>
+  <li> Typescript </li>
 </ul>
   
-<h4 id="goals_for_2021"> 💡 Goals for 2021: </h4>
+<h4 id="goals_for_2022"> 💡 Goals for 2022: </h4>
 <ul>
   <li> Find my first job. </li>
-  <li> Become skilled in Javascript and CSS. </li>
+  <li> Learn Express and socket.io. </li>
   <li> Grow as a person. </li>
 </ul>
   
 <h4 id="challenging_myself_with"> 🌱 Things I'm challenging myself with:</h4>
 <ul>
-  <li> Coding at least 6 hours 5 day a week. </li>
+  <li> Coding at least 8 hours 5 days a week. </li>
+  <li> Solving a logic exercise 5 days a week. </li>
   <li> Exercising every single day. I've started at 01/17/2021. </li>
   <li> Adapting the minimalism life style. </li>
 </ul>
@@ -55,8 +58,8 @@
 <h4 id="fun_facts"> 🌴 Fun facts: </h4>
 <ul>
   <li> In 2020 I completed mandatory military service with excellence earning the certificate of honor. </li>
-  <li> I'm improving my english every day by watching at least 3 episodes a day from some serie. </li>
-  <li> I'm improving my japanese every day by watching at least 2 episodes a day from some anime. </li>
+  <li> I'm improving my english every day by watching at least 1 episode a day of some serie. </li>
+  <li> I'm improving my japanese every day by watching at least 1 episode a day of some anime. </li>
   <li> I love cartoon and disney movies. </li>
   <li> I seeking to do an exchange in japan. </li>
   <li> Minecraft is my favorite game. </li>
@@ -68,6 +71,9 @@
   <img width="60em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img width="60em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
   <img width="60em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+  <img width="60em" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img width="60em" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+  <img width="60em" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png">  
 </div>
   
 ##
@@ -76,7 +82,7 @@
   <img width="60em" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
   <img width="60em" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png">
   <img width="60em" src="https://img.icons8.com/color/48/000000/postgreesql.png">
-  <img width="60em" src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png">
+  <img width="60em" src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png">  
 </div>
   
 ##
