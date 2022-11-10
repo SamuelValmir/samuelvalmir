@@ -1,4 +1,4 @@
-### Hello there, I'm Samuel Valmir🙃
+### Hello there🙃
 
 <p> Please feel free to clone my projects, raise issues and submit PFs as you want😁 </p>
 <div>
