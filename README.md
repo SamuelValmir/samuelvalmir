@@ -23,7 +23,7 @@
 <h3 id="about_me"> 🤗 About me: </h3>
 <ul>
   <li> I'm currently looking for new opportunities. </li>
-  <li> I'm currently studing at Programador BR course. </li>
+  <li> I'm currently studing at "Life's course". </li>
 </ul>
   
 <h4 id="currently_learning">✔️ I'm currently learning </h4>
